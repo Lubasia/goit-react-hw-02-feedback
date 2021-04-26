@@ -1,0 +1,16 @@
+.OptionsBtn {
+  margin-left: 10px;
+  padding: 5px 10px;
+  min-width: 100px;
+
+  background-color: #fff;
+  border: 1px solid #000;
+  border-radius: 5px;
+  outline: none;
+  cursor: pointer;
+
+  text-transform: capitalize;
+}
+.OptionsBtn:hover {
+  background-color: orange;
+}
